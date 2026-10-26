@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/mustafaautomation/graphql-testing-suite/actions/workflows/ci.yml/badge.svg)](https://github.com/mustafaautomation/graphql-testing-suite/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-6.0-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white)](https://graphql.org)
 
 GraphQL API testing framework with schema validation, response assertions, introspection analysis, and deprecation checking. Works with any GraphQL endpoint.
